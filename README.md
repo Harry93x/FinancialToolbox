@@ -19,4 +19,4 @@ The following services are supported for the time being (this is no investment a
 ### Usage
 1. print the help: _convertPP.py -h_
   1. yields: _convertPP.py -i <inputfile> -o <outputfile_
-1. run against the Excel file 'abc.xlsx' and store in 'abc.csv': _convertPP.py -i abc.xlsx -o abc.csv
+1. run against the Excel file 'abc.xlsx' and store in 'abc.csv': _convertPP.py -i abc.xlsx -o abc.csv_
