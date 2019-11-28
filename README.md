@@ -12,10 +12,11 @@ The following services are supported for the time being (this is no investment a
 - Python3 is installed
 - the following packages are available:
   - xlrd
-  - numpy
   - csv
   - sys
   - getopt
 
 ### Usage
-python3 convertPP.py
+1. print the help: _convertPP.py -h_
+  1. yields: _convertPP.py -i <inputfile> -o <outputfile_
+1. run against the Excel file 'abc.xlsx' and store in 'abc.csv': _convertPP.py -i abc.xlsx -o abc.csv
